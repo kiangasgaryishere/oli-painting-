@@ -1,0 +1,252 @@
+[
+  {
+    "t": 3.1483,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 6.6786,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 8.9548,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 13.211,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 14.9765,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 18.5473,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 21.3826,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 24.244999999999997,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 27.932,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 31.864199999999997,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 33.6406,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 37.0497,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 41.0423,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 43.2101,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 50.4341,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 54.4192,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 59.3251,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 63.5039,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 69.8937,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 72.2069,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 76.7828,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 80.1069,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 85.615,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 89.3507,
+    "kind": "scrape",
+    "gain": 0.021
+  },
+  {
+    "t": 92.9887,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 94.4123,
+    "kind": "paper",
+    "gain": 0.018
+  },
+  {
+    "t": 1.1,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 2.25,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 4.4,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 5.45,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 15.4,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 16.1,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 29,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 30,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 32.2,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 34.1,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 35.1,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 55.1,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 57.3,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 60.9,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 65.1,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 67.7,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 70.7,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 73.3,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 77.3,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 86.4,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 95,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 96.2,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 97.5,
+    "kind": "surface contact",
+    "gain": 0.022
+  },
+  {
+    "t": 98.8,
+    "kind": "surface contact",
+    "gain": 0.022
+  }
+]

@@ -1,0 +1,6 @@
+out/
+stills/
+review/
+node_modules/
+.venv/
+__pycache__/

@@ -1,0 +1,7 @@
+Original illustrations, scene layouts, animation, edit and procedural sound design created for this film.
+Narration and Persian script: supplied by the user, retained without voice synthesis or speed change.
+Impasto renderer and reference-to-stroke engine: LemoLab, Lemo-Opuscar, https://github.com/lemomo-ai/lemo-opuscar ; MIT (engine/LICENSE).
+Renderer used to bake 2x supersampled original layers; painting positions and textures stay fixed during animation.
+Core capture, mux and audio filter helpers: same library, MIT.
+Noto Sans Arabic Regular/Bold: Google Noto project, SIL Open Font License 1.1; bundled fonts and licence in assets/.
+No demo film footage, demo narrative, music, stock imagery, external maps or AI-generated voice used.
