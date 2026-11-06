@@ -25,11 +25,9 @@ function paths(t,u,reverse=false){
 }
 function scene(i,t,u){
  const dark=[6,12,13,14].includes(i);g.drawImage(A[dark?'dark':'bg'],0,0,1080,1920);if(!dark){g.fillStyle='#ecdfc476';g.fillRect(0,0,1080,1920)}
- // Curated chapter marker and restrained progress line.
- txt(i<13?'۰۱  /  رازِ شکل':i<25?'۰۲  /  سفرِ واژه':'۰۳  /  دو داستان',540,180,28,dark?'#d5c8ad':'#81705a',400);
  g.save();const z=1+.035*ease(u);g.translate(540,800);g.scale(z,z);g.translate(-540+Math.sin(u*1.7)*8,-800);
  switch(i){
- case 0:{tag('تخم‌مرغ… روی بوته؟');garden(t,u,true,lerp(1.65,1,ease(u*.95)));sprite('leaf',lerp(535,-170,ease(u*2)),750,680,790,-.4);break}
+ case 0:{garden(t,u,true,lerp(1.65,1,ease(u*.95)));sprite('leaf',lerp(535,-170,ease(u*2)),750,680,790,-.4);break}
  case 1:{tag('انگلیسی آمریکایی');fruit('white',540,650,1.05,-.12);card('EGG + PLANT',540,1100,780,200,0,'گیاهِ تخم‌مرغی');break}
  case 2:{fruit('purple',540,800,1.3,Math.sin(u*6)*.09);txt('؟',765,460+Math.sin(u*6)*15,190,plum);tag('مگه تخم‌مرغ می‌ذاره؟');break}
  case 3:{tag('انگلیسی بریتانیایی');fruit('purple',540,650,1.05,.1);card('AUBERGINE',540,1100,800,210,-.025);break}
